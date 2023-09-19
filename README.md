@@ -1,4 +1,4 @@
-# The MET Landing Page
+# The POTR Pots Landing Page
 
 Welcome to the Potr Pots GitHub repository! This repository contains the source code and assets for the Potr Pots website, an e-commerce platform specializing in the sale of pots and related products.
 
