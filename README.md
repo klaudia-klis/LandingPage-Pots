@@ -11,7 +11,6 @@ Potr Pots is your one-stop destination for a wide variety of pots, ranging from 
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Contact](#contact)
 
 ## Features
 
