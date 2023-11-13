@@ -19,7 +19,7 @@ Potr Pots is your one-stop destination for a wide variety of pots, ranging from 
 
 ## Demo
 
-Check out the live demo [DEMO LINK](https://klaudia-klis.github.io/landing-page-portfolio-pots/) to see it in action!
+Check out the live demo [DEMO LINK](https://klaudia-klis.github.io/LandingPage-Pots/) to see it in action!
 
 ## Getting Started
 
